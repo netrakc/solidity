@@ -1,0 +1,20 @@
+Agenda:
+1. Cryptocurrency --> ERC20 token standard.
+
+Introduction to the ERC-20 
+ERC --> Ethereum Request for comment. 
+Standard for creatign digital assests on Blockchain.
+Represent fungible tokens. 
+Every Fiat currency is fungible token eg USD, INR, JPY, GBP <-- represent value.
+
+Non-fungible Tokens : 
+
+Why Cryptocurrency exists ?
+
+-----------------------
+#. ECR-20 Functions:-
+-----------------------
+1.
+2. Balance functions.
+3. Transfer.
+4.

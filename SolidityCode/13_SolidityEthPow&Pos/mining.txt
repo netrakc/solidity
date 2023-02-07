@@ -1,0 +1,61 @@
+Mining --> solving the puzzles to validate and add new block to the blockchain. 
+Drawbacks :
+1. Too Much energy cosumption. 
+(BTC)
+Whole country argentia -- BTC annual mining.
+2. Networks Congestion --> 
+Dynamic Gas price is on Gwei, if the networks is high then gas price is high.but if the networks is low, then gas price is low.
+Dapps --> high on Congestion --> Txn more time to load blockchain.
+At future, blockchain adoption will increase then new Congestion will also increase.
+Founders are aware of this issue.
+
+Setp 15 200, Eth Merge.
+Consensus --> POW --> POS
+
+Eth 2.0 Architecture.
+1. Pos Consensus.
+2. Shard States.
+
+In order to join the etherum networks to become the validators, they need to stake 32ETH which will locks ETH for some time. 
+
+Liquidity Pools. 
+Stacking Pools.
+As soon as 32ETH reaches, then etherum software will activate.
+
+Steps :- 
+1. Pos :- stake | lock => 32 ETH.
+                       => ETH Software.
+                       => Geth(Contains Public & Private Key.) -- Go Implementation of ETH.
+2. 3 software needs to install on Pc.
+    i. Execution Client.
+    ii. Consensus Client.(Consensus --> voting and reaching agreement.)
+    iii. Validator Client.
+Above 3 software works together for proof of stake.
+
+3. Adding a new blocks in POS.
+ Slots and Epochs ko concepts hunxa yasma chai... 
+ Eth 2.0 --> Beacon Chain --> represent --> POS based ETH blockchain.
+
+Committee in POS : 
+mining is not there in the proof of stake.
+
+base rewards --> validator effective balance * 2*6/ Sqrt(Effective balance of all active validators)
+
+In etherum --> Parallel Blockchain Exist.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
