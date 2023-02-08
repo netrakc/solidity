@@ -18,3 +18,8 @@ Why Cryptocurrency exists ?
 2. Balance functions.
 3. Transfer.
 4.
+
+
+Project #1. Create SC for ERC20
+            write test cases.
+            deploy to goerli testnet --> config
